@@ -153,14 +153,3 @@ Open either notebook in Jupyter / Google Colab and execute all cells sequentiall
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Author
-
-**Your Name**  
-Feel free to connect if you have questions or suggestions.  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
